@@ -4,6 +4,15 @@
 @import "default";
 
 section {
-  background: #000615;
+  background-image: url("hasura-dark-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
   color: white;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: #3970fd !important;
 }
