@@ -4,6 +4,6 @@
 @import "default";
 
 section {
-  /* Override default background */
-  background: red;
+  background: #000615;
+  color: white;
 }
